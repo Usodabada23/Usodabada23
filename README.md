@@ -18,7 +18,7 @@ Ces derniers mois, j'ai redécouvert à quel point j'adore coder.
 ## 🛠 Compétences
 
 ### 🖥️ Développement Back-end
-- **Langages** : C#, C, C++, Python, JavaScript, JAVA, SQL (MariaDB, MySQL2)
+- **Langages** : C#, C, C++, PHP, JavaScript, JAVA, SQL (MariaDB, MySQL2)
 - **Concepts** : Programmation orientée objet (OOP), logique métier (business logic), MVC...
 
 ### 🎨 Développement Front-end
